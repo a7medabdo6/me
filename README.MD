@@ -14,11 +14,11 @@ I am a Full-stack Web and Mobile Developer who is exploring Cloud :cloud: while 
  
  :books: I want to learn <img src="https://img.shields.io/badge/-React native-3a495d?style=flat&logo=react&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-nestjs-black?style=flat&logo=nestjs&logoColor=white"/>
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 👯 I’m looking to collaborate for a React Native and ML-based project **Doc App**.
  
  🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+ 💬 Ask me about Full Stack Development, React Native, and any Tech-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
