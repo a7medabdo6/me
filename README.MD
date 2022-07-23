@@ -15,9 +15,7 @@ I am a Full-stack Web and Mobile Developer who is exploring Cloud :cloud: while 
  :books: I want to learn <img src="https://img.shields.io/badge/-React native-3a495d?style=flat&logo=react&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-nestjs-black?style=flat&logo=nestjs&logoColor=white"/>
  
  👯 I’m looking to collaborate for a React Native and ML-based project **Doc App**.
- 
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
+  
  💬 Ask me about Full Stack Development, React Native, and any Tech-related stuff.
 
 
@@ -39,8 +37,6 @@ I am a Full-stack Web and Mobile Developer who is exploring Cloud :cloud: while 
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/react%20native-red?style=plastic&logo=react">
-
-
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-nestjs-4285F4?style=flat&logo=nest%20js&logoColor=white">
